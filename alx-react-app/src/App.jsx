@@ -1,9 +1,9 @@
-import WelcomeMessage from './components/WelcomeMessage';
+import Welcome from './components/Welcome';
 
 function App() {
   return (
     <div>
-      <WelcomeMessage />
+      <Welcome />
     </div>
   );
 }
