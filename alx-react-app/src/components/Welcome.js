@@ -1,10 +1,8 @@
-import React from 'react';
-
 function Welcome() {
   return (
     <div>
-      <h1>Welcome to React</h1>
-      <p>This is a prebuilt component.</p>
+      <h1>Hello everyone, I am learning React at ALX!</h1>
+      <p>I am learning about JSX!</p>
     </div>
   );
 }
