@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Welcome() {
+function WelcomeMessage() {
   return (
     <div>
       <h1>Hello everyone, I am learning React at ALX!</h1>
@@ -10,4 +10,4 @@ function Welcome() {
   );
 }
 
-export default Welcome;
+export default WelcomeMessage;
